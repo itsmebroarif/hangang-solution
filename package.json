@@ -1,0 +1,12 @@
+{
+  "name": "belajardulu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd js && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
